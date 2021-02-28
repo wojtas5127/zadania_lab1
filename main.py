@@ -102,9 +102,9 @@ import math
 
 #Zad 9
 
-l1 = 3.45646455645
-napis = "Ala ma kota"
-l2 = 0xde
-print("zmienna typu float %f" % (l1))
-print("zmienna typu string %s" % (napis))
-print("zmienna typu szesnastkowego %x" % (l2))
+# l1 = 3.45646455645
+# napis = "Ala ma kota"
+# l2 = 0xde
+# print("zmienna typu float %f" % (l1))
+# print("zmienna typu string %s" % (napis))
+# print("zmienna typu szesnastkowego %x" % (l2))
