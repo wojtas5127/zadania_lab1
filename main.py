@@ -1,6 +1,8 @@
 from math import *
+import math
 
 #zad 1
+
 # a = 'napis'
 # b = 'napis2'
 # c = 3
@@ -48,10 +50,61 @@ from math import *
 
 #zad 4
 
-e = exp(1)
-e**=10
+# e = exp(1)
+# e**=10
+#
+# p = int(pow(log(5+sin(8)**2),1/6))
+#
+# x = 3.55
+#
+# po = math.floor(3.55)
+#
+# su = math.ceil(4.80)
+#
+# print(e)
+# print(p)
+# print(po)
+# print(su)
 
-p = int(pow(log(5+sin(8)**2),1/6))
+#zad 5
 
-print(e)
-print(p)
+# imie = "WOJCIECH"
+# nazwisko = "KACPRZYK"
+#
+# x = imie.capitalize()
+# y = nazwisko.capitalize()
+#
+# print(x)
+# print(y)
+
+#Zad 6
+
+# piosenka = "La La La La Ba ba ri as ras ti ti ti ras ti ti Ba ba ri as ras ti ti ta Ba ba ri as ras ti ti ti ras ti ti "
+#
+# c = piosenka.count("ti")
+#
+# print(c)
+
+#Zad 7
+
+# z = "zjawa "
+#
+# print(z[1])
+# print(z[4])
+
+#Zad 8
+
+# piosenka = "La La La La Ba ba ri as ras ti ti ti ras ti ti Ba ba ri as ras ti ti ta Ba ba ri as ras ti ti ti ras ti ti "
+#
+# x = piosenka.split()
+#
+# print(x)
+
+#Zad 9
+
+l1 = 3.45646455645
+napis = "Ala ma kota"
+l2 = 0xde
+print("zmienna typu float %f" % (l1))
+print("zmienna typu string %s" % (napis))
+print("zmienna typu szesnastkowego %x" % (l2))
